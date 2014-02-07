@@ -1,0 +1,16 @@
+{
+  "name": "dom-center",
+  "repo": "nk-components/dom-center",
+  "description": "Center a DOM element relative to another container",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "pgherveou/prefix": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
