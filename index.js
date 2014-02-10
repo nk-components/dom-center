@@ -33,7 +33,9 @@ function centerX(target, container, renderer) {
 
   var x = target.offsetLeft;
   var targetW = target.clientWidth;
-  var containerW = (container) ? container.clientWidth : window.innerWidth;
+  var containerW = (container !== undefined && container !== window)
+    ? container.clientWidth
+    : window.innerWidth;
 
   var transX = ((containerW - targetW) >> 1) - x;
 
@@ -62,7 +64,7 @@ function centerY(target, container, renderer) {
   var containerH;
   var y;
 
-  if (container) {
+  if (container !== undefined && container !== window) {
     containerH = container.clientHeight;
     y = target.offsetTop;
   } else {
