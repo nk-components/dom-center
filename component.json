@@ -3,7 +3,7 @@
   "repo": "nk-components/dom-center",
   "description": "Center a DOM element relative to another container",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["dom", "center", "element"],
   "dependencies": {
     "pgherveou/prefix": "*"
   },
