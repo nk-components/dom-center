@@ -1,6 +1,6 @@
 {
   "name": "nk-dom-center",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Center a DOM element relative to another container",
   "main": "index.js",
   "repository": {

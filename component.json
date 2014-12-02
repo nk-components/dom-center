@@ -2,8 +2,12 @@
   "name": "dom-center",
   "repo": "nk-components/dom-center",
   "description": "Center a DOM element relative to another container",
-  "version": "0.0.2",
-  "keywords": ["dom", "center", "element"],
+  "version": "1.0.1",
+  "keywords": [
+    "dom",
+    "center",
+    "element"
+  ],
   "dependencies": {
     "pgherveou/prefix": "*"
   },
