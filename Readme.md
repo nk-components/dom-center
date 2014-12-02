@@ -9,6 +9,12 @@
 
     $ component install nk-components/dom-center
 
+
+  With npm:
+
+    $ npm i -S nk-dom-center
+
+
 ## API
 
 ### center(target, container, renderer)
@@ -28,7 +34,7 @@
 
   The MIT License (MIT)
 
-  Copyright (c) 2014 <copyright holders>
+  Copyright (c) 2014
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
