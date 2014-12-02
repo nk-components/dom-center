@@ -1,0 +1,24 @@
+{
+  "name": "nk-dom-center",
+  "version": "1.0.0",
+  "description": "Center a DOM element relative to another container",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nk-components/dom-center.git"
+  },
+  "keywords": [
+    "center",
+    "dom",
+    "element"
+  ],
+  "author": "Antoine Lehurt <code@kewah.com> (http://kewah.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nk-components/dom-center/issues"
+  },
+  "homepage": "https://github.com/nk-components/dom-center",
+  "dependencies": {
+    "prefix": "^0.2.1"
+  }
+}
